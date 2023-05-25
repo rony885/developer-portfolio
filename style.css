@@ -11,7 +11,7 @@ h1{
 }
 section{
     display: flex;
-   
+    margin-bottom: 70px;
 }
 .half-width{
     width: 50%;
@@ -28,8 +28,18 @@ section{
     color: white;
     font-weight: 700;
     border-radius: 10px;
+
 }
  .top-banner{
     background-image: url(images/topi.png);
     background-repeat: no-repeat;
+ }
+ /* .dream-big img{
+    padding: 10%;
+ } */
+ .dream-big {
+    background-image: url(images/circal1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
  }
